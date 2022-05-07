@@ -1,11 +1,16 @@
 # Device-Discovery-Tool
 This repository is for the development of an application which Scans Networks, Identifies Device information within that network, and Monitors their statuses..
-Authors:
+
+## Authors:
 
 -[@Samwich422](https://www.github.com/@Samwich422)
+
 -[@tsavo4](https://www.github.com/@tsavo4)
+
 -[@shobbs528](https://www.github.com/@shobbs528)
+
 -[@RemainCurly](https://www.github.com/@RemainCurly)
+
 
 
 ## Tech Stack
